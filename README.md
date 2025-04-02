@@ -18,7 +18,7 @@ The **Expense Tracker App** is an iOS application developed using **Swift and Sw
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/praveen-dhankhar/expense-tracker.git
    ```
 2. Open the project in **Xcode**.
 3. Ensure that **SwiftData** is installed.
@@ -52,7 +52,7 @@ If you would like to contribute to this project:
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Developer**: Parveen Kumar
-- **Email**: dhankhar.praveen13@gmail.com
+- **Email**: praveendhankhar0@gmail.com
 - **LinkedIn**: [Parveen Dhankhar](https://www.linkedin.com/in/praveen-dhankhar-2aa2a9328)
 
 ---
